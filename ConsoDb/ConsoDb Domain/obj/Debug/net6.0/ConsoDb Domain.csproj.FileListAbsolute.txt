@@ -1,0 +1,12 @@
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\bin\Debug\net6.0\ConsoDb Domain.deps.json
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\bin\Debug\net6.0\ConsoDb Domain.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\bin\Debug\net6.0\ConsoDb Domain.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\obj\Debug\net6.0\ConsoDb Domain.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\obj\Debug\net6.0\ConsoDb Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\obj\Debug\net6.0\ConsoDb Domain.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\obj\Debug\net6.0\ConsoDb Domain.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\obj\Debug\net6.0\ConsoDb Domain.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\obj\Debug\net6.0\ConsoDb Domain.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\obj\Debug\net6.0\refint\ConsoDb Domain.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\obj\Debug\net6.0\ConsoDb Domain.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb Domain\obj\Debug\net6.0\ref\ConsoDb Domain.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHTa2cLiOiHZNCvRmphvK/XRCbvnPgOzc08JHtzCLu+nGgyPhLvLvcFaKoFaOA9pRt8767RCn1KAixJZVFNmWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GavinC\\RiderProjects\\ConsoDb\\ConsoDb Domain\\ConsoDb Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GavinC\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\GavinC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

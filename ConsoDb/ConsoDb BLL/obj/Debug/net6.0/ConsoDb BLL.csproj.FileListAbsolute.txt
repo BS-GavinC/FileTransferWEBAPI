@@ -1,0 +1,17 @@
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\bin\Debug\net6.0\ConsoDb BLL.deps.json
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\bin\Debug\net6.0\ConsoDb BLL.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\bin\Debug\net6.0\ConsoDb BLL.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\bin\Debug\net6.0\ConsoDb DAL.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\bin\Debug\net6.0\ConsoDb Domain.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\bin\Debug\net6.0\ConsoDb DAL.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\bin\Debug\net6.0\ConsoDb Domain.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\obj\Debug\net6.0\ConsoDb BLL.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\obj\Debug\net6.0\ConsoDb BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\obj\Debug\net6.0\ConsoDb BLL.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\obj\Debug\net6.0\ConsoDb BLL.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\obj\Debug\net6.0\ConsoDb BLL.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\obj\Debug\net6.0\ConsoDb BLL.csproj.CopyComplete
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\obj\Debug\net6.0\ConsoDb BLL.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\obj\Debug\net6.0\refint\ConsoDb BLL.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\obj\Debug\net6.0\ConsoDb BLL.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb BLL\obj\Debug\net6.0\ref\ConsoDb BLL.dll

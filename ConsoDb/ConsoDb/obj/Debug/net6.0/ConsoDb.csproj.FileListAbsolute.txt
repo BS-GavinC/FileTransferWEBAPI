@@ -1,0 +1,40 @@
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\appsettings.json
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb.exe
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb.deps.json
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb.runtimeconfig.json
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb BLL.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb DAL.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb Domain.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb BLL.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb DAL.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\ConsoDb Domain.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\scopedcss\bundle\ConsoDb.styles.css
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.csproj.CopyComplete
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\refint\ConsoDb.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ConsoDb.genruntimeconfig.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\obj\Debug\net6.0\ref\ConsoDb.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb\bin\Debug\net6.0\Npgsql.dll

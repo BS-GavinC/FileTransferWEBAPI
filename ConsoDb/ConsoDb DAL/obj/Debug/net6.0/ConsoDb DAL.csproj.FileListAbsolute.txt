@@ -1,0 +1,15 @@
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\bin\Debug\net6.0\ConsoDb DAL.deps.json
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\bin\Debug\net6.0\ConsoDb DAL.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\bin\Debug\net6.0\ConsoDb DAL.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\bin\Debug\net6.0\ConsoDb Domain.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\bin\Debug\net6.0\ConsoDb Domain.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\obj\Debug\net6.0\ConsoDb DAL.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\obj\Debug\net6.0\ConsoDb DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\obj\Debug\net6.0\ConsoDb DAL.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\obj\Debug\net6.0\ConsoDb DAL.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\obj\Debug\net6.0\ConsoDb DAL.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\obj\Debug\net6.0\ConsoDb DAL.csproj.CopyComplete
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\obj\Debug\net6.0\ConsoDb DAL.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\obj\Debug\net6.0\refint\ConsoDb DAL.dll
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\obj\Debug\net6.0\ConsoDb DAL.pdb
+C:\Users\GavinC\RiderProjects\ConsoDb\ConsoDb DAL\obj\Debug\net6.0\ref\ConsoDb DAL.dll
